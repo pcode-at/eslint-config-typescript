@@ -22,16 +22,16 @@ be downloaded alongside it:
 - [`prettier`](https://prettier.io/)
 - [`typescript`](https://www.typescriptlang.org/)
 
-Install `@seancroach/eslint-config-typescript` and its peer dependencies through
+Install `@pcode-at/eslint-config-typescript` and its peer dependencies through
 `npm`:
 
 ```
-npm install --save-dev @seancroach/eslint-config-typescript eslint prettier typescript
+npm install --save-dev @pcode-at/eslint-config-typescript eslint prettier typescript
 ```
 
 ## Usage
 
-You can configure ESlint a variety of ways. I suggest to do a majority of your
+You can configure ESlint a variety of ways. We suggest to do a majority of your
 configurations from your `package.json`:
 
 ```json
