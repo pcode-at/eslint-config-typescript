@@ -1,15 +1,6 @@
-# @seancroach/eslint-config-typescript
+# @pcode-at/eslint-config-typescript
 
-<p align="left">
-  <a href="https://github.com/seancroach/eslint-config-typescript/actions?query=workflow%3ACI">
-    <img alt="build status" src="https://img.shields.io/github/workflow/status/seancroach/eslint-config-typescript/CI?logo=GitHub">
-  </a>
-  <a href="https://www.npmjs.com/package/@seancroach/eslint-config-typescript">
-    <img alt="downloads" src="https://img.shields.io/npm/dt/@seancroach/eslint-config-typescript?logo=npm">
-  </a>
-</p>
-
-_A shared ESLint configuration I use across my TypeScript projects._
+based on [@seancroach/eslint-config-typescript](https://github.com/seancroach/eslint-config-typescript)
 
 ## Highlights
 
@@ -24,7 +15,7 @@ yourself, but why do that when it's already right here to use!
 
 ## Installation
 
-`@seancroach/eslint-config-typescript` has a few peer dependencies that have to
+`@pcode-at/eslint-config-typescript` has a few peer dependencies that have to
 be downloaded alongside it:
 
 - [`eslint`](https://eslint.org/)
@@ -45,9 +36,9 @@ configurations from your `package.json`:
 
 ```json
 {
-	"name": "my-cool-project",
+	"name": "my-new-project",
 	"eslintConfig": {
-		"extends": "@seancroach/eslint-config-typescript"
+		"extends": "@pcode-at/eslint-config-typescript"
 	}
 }
 ```

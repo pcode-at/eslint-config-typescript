@@ -1,5 +1,5 @@
 {
-	"extends": "@seancroach/tsconfig",
+	"extends": "@pcode-at/tsconfig",
 	"compilerOptions": {
 		"noEmit": true
 	},

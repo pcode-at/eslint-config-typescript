@@ -1,10 +1,10 @@
 {
-	"name": "@seancroach/eslint-config-typescript",
-	"version": "3.0.7",
-	"description": "A shared ESLint configuration I use across my TypeScript projects.",
+	"name": "@pcode-at/eslint-config-typescript",
+	"version": "0.0.1",
+	"description": "A shared ESLint configuration to be used across all pcode projects",
 	"license": "MIT",
-	"repository": "seancroach/eslint-config-typescript",
-	"author": "Sean Colin Roach <me@seancroach.dev> (http://seancroach.dev)",
+	"repository": "pcode-at/eslint-config-typescript",
+	"author": "pcode",
 	"main": "index.js",
 	"engines": {
 		"node": ">=10"
