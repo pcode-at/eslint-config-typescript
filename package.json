@@ -40,7 +40,7 @@
 	"devDependencies": {
 		"@commitlint/cli": "^11.0.0",
 		"@commitlint/config-conventional": "^11.0.0",
-		"@pcode-at/tsconfig": "0.0.4",
+		"@pcode-at/tsconfig": "0.0.5",
 		"ava": "^3.14.0",
 		"eslint": "^7.16.0",
 		"husky": "^4.3.6",
