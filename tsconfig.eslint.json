@@ -1,7 +1,9 @@
 {
-	"extends": "@pcode-at/tsconfig",
-	"compilerOptions": {
-		"noEmit": true
-	},
-	"files": ["test/testFile.ts"]
+  "extends": "@pcode-at/tsconfig",
+  "compilerOptions": {
+    "noEmit": true
+  },
+  "files": [
+    "test/testFile.ts"
+  ]
 }
