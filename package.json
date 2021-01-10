@@ -1,6 +1,6 @@
 {
 	"name": "@pcode-at/eslint-config-typescript",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "A shared ESLint configuration to be used across all pcode projects",
 	"license": "MIT",
 	"repository": "pcode-at/eslint-config-typescript",
